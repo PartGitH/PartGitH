@@ -25,5 +25,5 @@
 
 **Stats :**
 
-![](https://raw.githubusercontent.com/PartGitH/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/PartGitH/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PartGitH&layout=compact)
+
